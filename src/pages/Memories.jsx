@@ -207,7 +207,7 @@ const Memories = ({ isIOS }) => {
             transition={{ delay: 1.5 }}
             className="text-center text-pink-600 mt-6 italic text-lg"
           >
-            ❤️ Cinta ini untukmu sayang... Tolong diterima ya 🥺💕
+            ❤️ Cinta ini untukmu sayang... I Love Uuu 🥺💕
           </motion.p>
         )}
       </motion.div>
