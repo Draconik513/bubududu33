@@ -30,38 +30,67 @@ const Memories = ({ isIOS }) => {
           className="bg-white bg-opacity-90 backdrop-blur-sm p-6 rounded-xl shadow-lg mb-8 border border-pink-100"
         >
           <h2 className="text-2xl font-semibold text-rose-600 mb-4">
-            Permintaan Maafku di Hari Ulang Tahunmu
+            Wish Spesial
           </h2>
 
           <div className="text-left text-pink-800 space-y-4 leading-relaxed">
             <p>
-              💌 <strong>Maaf ya, Sayang...</strong>
+              💌 <strong>Sayangku...</strong>
             </p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 0.6 }}
             >
-              Maaf kalau selama ini aku pernah cuek 😞, terlalu sibuk 😔, atau
-              kurang peka sama perasaanmu 😢. Maaf kalau kadang aku bikin kamu
-              kecewa, salah paham, atau merasa sendiri 😓. Aku gak pernah
-              berniat nyakitin kamu 🥺. Semua itu karena aku manusia biasa yang
-              masih belajar mencintaimu dengan lebih baik 🤍.
+              Setiap hari aku menunggumu pulang dengan semangat.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.2 }}
             >
-              Terima kasih sudah sabar, sudah tetap di sini 🫶. Aku akan terus
-              belajar jadi lebih baik lagi... untuk kamu 💗
+              Jangan jadikan penghalang jarak kita saat ini menjadi hambatan
+              untuk kita saling menyayangi, mencintai, dan melindungi satu sama
+              lain.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1, delay: 1.8 }}
             >
-              🙏🏻 Maaf ya, dan makasih karena kamu tetap percaya sama aku.
+              Semoga kita bisa segera pulang kerumah yang sama. Sehat selalu
+              gantengku.
+            </motion.p>
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1, delay: 1.8 }}
+            >
+              Terimakasih untuk segala kasih sayangmu selama ini.
+            </motion.p>
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1, delay: 1.8 }}
+            >
+              Tetap sama sama belajar menjadi lebih baik bersama ya...
+            </motion.p>
+
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1, delay: 1.8 }}
+            >
+              Semangat LDR 🇺🇸🇮🇩 
+             
+            </motion.p>
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 1, delay: 1.8 }}
+            >
+               
+              I love U
             </motion.p>
           </div>
         </motion.div>
